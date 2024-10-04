@@ -1,0 +1,23 @@
+   # Python
+   __pycache__/
+   *.py[cod]
+   *$py.class
+
+   # Virtual environment
+   venv/
+
+   # Environment variables
+   .env
+
+   # IDE files
+   .vscode/
+   .idea/
+
+   # OS files
+   .DS_Store
+   Thumbs.db
+
+   # Project-specific
+   agent_workspace/
+   errors/
+   hhds.txt
